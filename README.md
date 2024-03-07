@@ -29,7 +29,7 @@ Application will run on port 4000
 
 ### Dependencies used
 * [express](https://expressjs.com/)
-* [PostgreSQL](https://www.postgresql.org/)
+* [pg](https://www.npmjs.com/package/pg)
 * [nodemon](https://www.npmjs.com/package/nodemon) - to restart the applications by automatically restarting
 
 
